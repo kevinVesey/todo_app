@@ -1,0 +1,5 @@
+{
+    "gitlens.views.compare.location": "scm",
+    "gitlens.views.fileHistory.location": "scm",
+    "gitlens.views.lineHistory.location": "scm"
+}
